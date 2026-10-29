@@ -23,18 +23,7 @@ Backend engineer focused on building reliable systems, scalable services, and in
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat-square&logo=mlflow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00C7B7?style=flat-square&logo=opencv&logoColor=white)
 
-## Quest Console
-
-Player: Linus  
-Level: 27  
-XP: 8450 / 10000  
-Active quest: Build robust backend systems  
-Secondary quest: Ship AI + CV experiments
-
 ## What I enjoy
-- Building backend services that solve real-world problems
-- Exploring Computer Vision and intelligent systems
-- Combining technical depth with creative thinking and movement
 - Finding inspiration in arts, design, food, and innovation
 
 ## Statistics
